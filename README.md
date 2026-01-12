@@ -28,5 +28,5 @@ I am Avinash Computer Science and Engineering Student at Vellore Institute  of T
 
 ![](https://leetcard.jacoblin.cool/Avinash_Gautam?ext=contest)
 
-[![GitHub Trends SVG](https://api.githubtrends.io/Avinash_Gautam/svg/avgupta456/langs)](https://githubtrends.io)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
