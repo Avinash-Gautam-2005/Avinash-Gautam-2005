@@ -1,4 +1,5 @@
-# 💫 About Me:
+<img width="1000" height="300" alt="image" src="https://github.com/user-attachments/assets/b2e61004-628c-411f-b09e-be1581578419" />
+
 I am Avinash Computer Science and Engineering Student at Vellore Institute  of Technology, Bhopal | Exploring the world of Full stack development.
 
 
