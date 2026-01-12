@@ -24,4 +24,7 @@ I am Avinash Computer Science and Engineering Student at Vellore Institute  of T
 ---
 [![](https://visitcount.itsvg.in/api?id=Avinash-Gautam-2005&icon=0&color=0)](https://visitcount.itsvg.in)
 
+![](https://leetcard.jacoblin.cool/
+Avinash_Gautam?ext=heatmap)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
