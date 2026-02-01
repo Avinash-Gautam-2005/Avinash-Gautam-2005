@@ -132,6 +132,7 @@
 <div>
   <img src="https://raw.githubusercontent.com/Avinash-Gautam-2005/Avinash-Gautam-2005/output/snake.svg" alt="Snake animation" />
 </div>
+![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
 
 
 ## :zap: My LeetCode Stats 📊
