@@ -130,9 +130,9 @@
 
 ### 
 <div>
-  <img src="https://raw.githubusercontent.com/Avinash-Gautam-2005/Avinash-Gautam/output/snake.svg" alt="Snake animation" />
-  
+  <img src="https://raw.githubusercontent.com/Avinash-Gautam-2005/Avinash-Gautam-2005/output/snake.svg" alt="Snake animation" />
 </div>
+
 
 ## :zap: My LeetCode Stats 📊
 <h3 align="left">Leetcode Stats:</h3>
