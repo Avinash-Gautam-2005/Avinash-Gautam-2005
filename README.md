@@ -36,11 +36,11 @@
 ## 📊 GitHub Stats:
 <div align="center">
 
-<img height="158em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Avinash-Gautam-2005&theme=aura">
-<img height="158em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Avinash-Gautam-2005&theme=aura">
-<img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Avinash-Gautam-2005&theme=aura">
-<img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Avinash-Gautam-2005&theme=aura">
-<img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Avinash-Gautam-2005&theme=aura&utcOffset=8">
+<img height="200em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Avinash-Gautam-2005&theme=aura">
+<img height="200em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Avinash-Gautam-2005&theme=aura">
+<img height="200em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Avinash-Gautam-2005&theme=aura">
+<img height="200em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Avinash-Gautam-2005&theme=aura">
+<img height="200em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Avinash-Gautam-2005&theme=aura&utcOffset=8">
 <!-- <img height="169em" src="https://github-readme-stats.vercel.app/api?username=Avinash-Gautam-2005&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
 <img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=Avinash-Gautam-2005&theme=radical"> -->
 
